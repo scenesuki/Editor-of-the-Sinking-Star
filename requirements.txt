@@ -1,1 +1,2 @@
+# Runtime dependency: Frida instrumentation.
 frida==17.24.3
