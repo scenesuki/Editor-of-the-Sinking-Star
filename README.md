@@ -53,6 +53,19 @@
 
 **更新时保留 `data/`。** 不要将未结束的工程会话搬到另一台电脑；异常恢复规则见[使用细则](docs/使用细则.md)。
 
+## 源码目录
+
+| 目录 | 内容 |
+| --- | --- |
+| [assets/](assets/) | 商店横图与文档素材 |
+| [docs/](docs/) | 中英使用细则与构建说明 |
+| [licenses/](licenses/) | MIT 与第三方许可 |
+| [locales/](locales/) | 中英文界面翻译 |
+| [release/](release/) | 打包入口、配置与发行文稿 |
+| [research/](research/) | 必需的游戏接口与覆盖层脚本 |
+| [solution_editor/](solution_editor/) | 工程、录制、时间轴与存档管理 |
+| [tests/](tests/) | 文件安全、备份与发行检查 |
+
 ## 当前边界
 
 - **预览包禁用 P 快速完成。** 开发版保留实验代码，不作为可用功能承诺。
