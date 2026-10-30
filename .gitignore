@@ -1,0 +1,13 @@
+/.deps/
+/.build-deps/
+/.build/
+/deliverables/
+/data/
+/projects/
+/save-backups/
+/records/
+/archive/
+__pycache__/
+*.py[cod]
+tests/tmp*/
+tests/.sandbox_tmp/

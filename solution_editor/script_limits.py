@@ -1,0 +1,3 @@
+"""脚本数量与文件容量边界；16 MiB 覆盖 65536 条最大等待的格式化 JSON。"""
+MAX_RECORDING_STEPS = 65536
+MAX_SCRIPT_BYTES = 16 * 1024 * 1024
