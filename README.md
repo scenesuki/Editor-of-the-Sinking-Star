@@ -7,7 +7,7 @@
 <p align="center"><strong>《沉星之序》游戏内录制与宏编辑器</strong></p>
 
 > **预览版提示**  
-> 本项目仍处于开发阶段，尚非正式版本。但已完成主要功能的开发。最近一次本机可运行验证：**2026-10-30**（启动及相关工具检查，非全场景或异机验收）。  
+> 本项目仍处于开发阶段，尚非正式版本，但已经完成了主要功能的开发。最近一次本机可运行验证：**2026-10-30**。  
 > 如遇问题，欢迎前往 [Issues](https://github.com/scenesuki/Editor-of-the-Sinking-Star/issues) 反馈，并提供版本与复现步骤。  
 
 `0.1.0-preview` · `Windows 10 / 11 x64` · `中文 / English` · `MIT`
@@ -79,7 +79,7 @@
 
 ## 借鉴与致谢
 
-感谢 [qiekn/ootss-cmd](https://github.com/qiekn/ootss-cmd)。本项目借鉴了其 **Solution Player / Editor** 的操作步骤编辑、按键回放及利用游戏原生撤销／重开的思路，并参考了游戏内存布局与调速资料。
+感谢 [qiekn/ootss-cmd](https://github.com/qiekn/ootss-cmd)。本项目在开发到一半时发现了该项目，经了解后发现我的开发思路有点偏了，于是借鉴了 **Solution Player / Editor** 部分的操作步骤编辑、按键回放等思路，本着研究的成品确实存在区别，我最终还是完成了整个项目的开发。毕竟该项目首要目的是我要用。
 
 `ootss-cmd` 不作为本项目的运行时依赖；原项目许可保留于 [ootss-cmd-LICENSE.txt](licenses/ootss-cmd-LICENSE.txt)。
 

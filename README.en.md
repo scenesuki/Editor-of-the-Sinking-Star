@@ -7,7 +7,7 @@
 <p align="center"><strong>In-game recorder and macro editor for Order of the Sinking Star</strong></p>
 
 > **Preview notice**  
-> This project is still in development and is not a stable release. But the main content development has already been completed.Last local runnable check: **2026-10-30** (startup and related tool checks; not comprehensive game or second-PC acceptance).  
+> This project is still in development and is not yet an official release, but its core features are implemented. Last local runnable check: **2026-10-30**.  
 > If you encounter a problem, please report it through [Issues](https://github.com/scenesuki/Editor-of-the-Sinking-Star/issues), including the version and steps to reproduce.  
 
 `0.1.0-preview` · `Windows 10 / 11 x64` · `中文 / English` · `MIT`
@@ -79,7 +79,7 @@ The next development step is the P key, which will quickly complete levels from 
 
 ## Inspiration and acknowledgements
 
-Thanks to [qiekn/ootss-cmd](https://github.com/qiekn/ootss-cmd). Its **Solution Player / Editor** informed this project's step-based editing, input playback, and use of native game undo/restart. Its game-memory-layout and speed-control material also provided technical references.
+Thanks to [qiekn/ootss-cmd](https://github.com/qiekn/ootss-cmd). I discovered `ootss-cmd` halfway through development and realized I had taken my own project somewhat off course. I then drew on the **Solution Player / Editor** approach to step-based editing and input playback. Since the end result I wanted was different, I continued and completed this project. Above all, I built it because I wanted to use it myself.
 
 `ootss-cmd` is not a runtime dependency. Its original license is preserved in [ootss-cmd-LICENSE.txt](licenses/ootss-cmd-LICENSE.txt).
 
