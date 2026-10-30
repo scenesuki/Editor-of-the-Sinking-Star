@@ -53,6 +53,19 @@
 
 **Preserve `data/` when updating.** Do not move an unfinished project session to another PC. See the [usage guide](docs/USAGE.en.md) for recovery rules.
 
+## Source layout
+
+| Directory | Contents |
+| --- | --- |
+| [assets/](assets/) | Store artwork and documentation assets |
+| [docs/](docs/) | Chinese/English usage and build guides |
+| [licenses/](licenses/) | MIT and third-party licenses |
+| [locales/](locales/) | Chinese/English UI translations |
+| [release/](release/) | Build entry points, configuration and release templates |
+| [research/](research/) | Required game bridges and overlay scripts |
+| [solution_editor/](solution_editor/) | Projects, recording, timeline and save management |
+| [tests/](tests/) | File-safety, backup and release checks |
+
 ## Current limits
 
 - **Quick complete P is disabled in the portable Preview.** Experimental code remains in the development version without a usability guarantee.
