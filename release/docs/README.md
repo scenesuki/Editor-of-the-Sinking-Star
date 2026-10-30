@@ -9,7 +9,6 @@
 > **预览版提示**  
 > 本项目仍处于开发阶段，尚非正式版本。最近一次本机可运行验证：**2026-10-30**（启动及相关工具检查，非全场景或异机验收）。  
 > 如遇问题，欢迎前往 [Issues](https://github.com/scenesuki/Editor-of-the-Sinking-Star/issues) 反馈，并提供版本与复现步骤。  
-> *仓库尚未公开，Issue 入口将在发布后启用。*
 
 `0.1.0-preview` · `Windows 10 / 11 x64` · `中文 / English` · `MIT`
 

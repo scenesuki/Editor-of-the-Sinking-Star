@@ -9,7 +9,6 @@
 > **Preview notice**  
 > This project is still in development and is not a stable release. Last local runnable check: **2026-10-30** (startup and related tool checks; not comprehensive game or second-PC acceptance).  
 > If you encounter a problem, please report it through [Issues](https://github.com/scenesuki/Editor-of-the-Sinking-Star/issues), including the version and steps to reproduce.  
-> *The repository is not public yet; the Issue page will become available after publication.*
 
 `0.1.0-preview` · `Windows 10 / 11 x64` · `中文 / English` · `MIT`
 
