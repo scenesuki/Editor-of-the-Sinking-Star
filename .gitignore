@@ -1,3 +1,4 @@
+# Keep user data and generated build files local.
 /.deps/
 /.build-deps/
 /.build/
